@@ -1,3 +1,16 @@
+===============================================================================
+                               StrutSurf
+           A tool for analysis of strut morphology and surface
+              roughness in additively manufactured lattices
+===============================================================================
+
+Copyright (C) 2021 Reece Oosterbeek <r.oosterbeek at imperial.ac.uk>
+
+Users of this software are encouraged to cite the relevant publications on 
+StrutSurf when reporting and publishing their own work, if that work uses or 
+is based on StrutSurf.
+
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
