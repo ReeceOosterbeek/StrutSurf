@@ -22,3 +22,6 @@ from the following link on the MathWorks website:
 For more information about the MATLAB Runtime and the MATLAB Runtime installer, see 
 "Distribute Applications" in the MATLAB Compiler documentation  
 in the MathWorks Documentation Center.
+
+
+If you already have MATLAB installed, you can run StrutSurf from the main file StrutSurf.m
