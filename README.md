@@ -1,7 +1,8 @@
 # StrutSurf
 A tool for analysis of strut morphology and surface roughness in additively manufactured lattices
 
-StrutSurf is written in MATLAB and requires the MATLAB Runtime environment.
+StrutSurf is written in MATLAB and requires  MATLAB (to run the source code) or the MATLAB Runtime environment (to run the executable installer).
+
 
 **Executable Installer**
 
