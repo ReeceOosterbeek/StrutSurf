@@ -1,0 +1,10 @@
+**********************************************
+Instructions for using example dataset:
+**********************************************
+
+1. Download the 6 .zip files containing microCT data (part1.zip to part6.zip)
+2. Unzip and combine all 2018 .bmp images into one folder
+3. These can then be imported into StrutSurf for analysis
+
+[Image Info]
+	Pixel Size = 6.264751 microns
