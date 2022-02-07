@@ -30,4 +30,4 @@ Install the iso2mesh toolbox (http://iso2mesh.sf.net) according to the instructi
 * Download the iso2mesh toolbox and extract it to a folder
 * Add this folder to your MATLAB path using the `pathtool` command
 
-You can run StrutSurf from the main file StrutSurf.m
+You can then run StrutSurf from the main file StrutSurf.m
