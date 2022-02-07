@@ -5,9 +5,9 @@ StrutSurf is written in MATLAB and requires  MATLAB (to run the source code) or 
 environment (to run the executable installer).
 
 
-**Executable Installer**
+## Executable Installer
 
-Prerequisites for Deployment 
+**Prerequisites for Deployment**
 
 Verify that version 9.9 (R2020b) of the MATLAB Runtime is installed.   
 If not, you can download and install the Windows version of the MATLAB Runtime for R2020b 
@@ -20,6 +20,14 @@ For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
 in the MathWorks Documentation Center.
 
 
-**Running from source code**
+## Running from source code
 
-If you already have MATLAB installed, you can run StrutSurf from the main file StrutSurf.m
+**Prerequisites for Deployment** 
+
+MATLAB (R2020b or later) should be installed according to your system requirements.
+
+Install the iso2mesh toolbox (http://iso2mesh.sf.net) according to the instructions (http://iso2mesh.sourceforge.net/cgi-bin/index.cgi?Doc/Installation)
+* Download the iso2mesh toolbox and extract it to a folder
+* Add this folder to your MATLAB path using the `pathtool` command
+
+You can run StrutSurf from the main file StrutSurf.m
