@@ -3,6 +3,7 @@ A tool for analysis of strut morphology and surface roughness in additively manu
 
 StrutSurf is written in MATLAB and requires the MATLAB Runtime environment (to run the executable installer) or MATLAB and the iso2mesh toolbox (to run the source code) 
 
+You can read more about StrutSurf in the SoftwareX publication (https://doi.org/10.1016/j.softx.2022.101043), if you use StrutSurf in your own work please cite this paper.
 
 ## Executable Installer
 
